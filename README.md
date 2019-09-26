@@ -1,3 +1,2 @@
-# Hello World!!!!
-
-Peter Cole
+# Hello GitHub
+GitHub is good
